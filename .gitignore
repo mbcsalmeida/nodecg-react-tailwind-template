@@ -137,3 +137,13 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+# Build files
+dashboard/*
+db/*
+extension/*
+graphics/*
+assets/*
+cfg/*
+
+vite.config.mts.*
